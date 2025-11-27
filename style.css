@@ -3,6 +3,9 @@
 body{
     /* background-color: blue; */
     font-family: 'roboto',sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 a{
@@ -34,6 +37,8 @@ h2{
     width: 275px;
     border-radius: 16px;
     box-shadow: 10px 10px    10px gray; 
+    margin: 50px;
+    padding: 20px;
 }
 input{
     border-radius: 5px;
